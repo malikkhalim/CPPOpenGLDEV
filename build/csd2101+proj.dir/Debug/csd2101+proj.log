@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/Codingo/Project_37_CPP/csd2101-opengl-dev/CMakeLists.txt
+  YourBoundingSphere.cpp
+  YourCamera.cpp
+  YourCullerClipper.cpp
+  YourRasterizer.cpp
+  main.cpp
+  Generating Code...
+  csd2101+proj.vcxproj -> D:\Codingo\Project_37_CPP\csd2101-opengl-dev\build\Debug\csd2101+proj.exe

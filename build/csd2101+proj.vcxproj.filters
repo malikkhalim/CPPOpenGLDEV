@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxDriver\src\YourBoundingSphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxDriver\src\YourCamera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxDriver\src\YourCullerClipper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxDriver\src\YourRasterizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxDriver\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxDriver\src\YourBoundingSphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxDriver\src\YourCamera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxDriver\src\YourCullerClipper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxDriver\src\YourRasterizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Controller_Clipping.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Controller_Lighting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Controller_Picking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Controller_Rasterization.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Controller_Transformation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\CycleTimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Frustum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\GFX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\GFXInternal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\GraphicsPipe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Matrix4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\MeshGenerator_Plane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\MeshGenerator_Point.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\MeshImporter_IFS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Transform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Vector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Vector4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\projects\csd2101+proj\GfxLib\gfx\Vertex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Codingo\Project_37_CPP\csd2101-opengl-dev\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{521857E1-A936-38CB-8A24-7AF70630DED7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C56B752F-8E81-3B19-8836-3737681D5B33}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
